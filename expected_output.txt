@@ -1,0 +1,12 @@
+=== Week 11: Asynchronous Programming in Dart ===
+--- OOP objects ---
+Book: "Dart for Beginners" by A. Student (ID: B-101)
+Magazine: "Technology Today", Issue #12 (ID: M-201)
+
+1. Main: Starting the book save operation.
+Book.saveRecord: Preparing to save "Dart for Beginners"...
+2. Main: I can do other work while the save is pending.
+3. Main: I am about to await the save result.
+Book.saveRecord: Save operation finished.
+4. Main: Successfully saved book "Dart for Beginners" (ID: B-101).
+5. Main: Program finished.
